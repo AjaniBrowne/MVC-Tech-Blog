@@ -1,1 +1,3 @@
 # MVC-Tech-Blog
+Writing about tech can be just as important as making it. Developers spend plenty of time creating new applications and debugging existing codebases.
+In this module I will learn to build a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. I will build this site completely from scratch and deploy it to Heroku. My app will follow the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
